@@ -1,0 +1,3 @@
+/bin/ls -l
+/bin/ls
+/bin/cat test.txt
